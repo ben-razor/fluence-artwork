@@ -16,7 +16,7 @@ The [Fluence NFTs]() are designed to represent different groups by elements link
 
 Rarity is supported through:
 
-* Different network configurations: Ring, star, mesh, line.
+* Different network configurations: Ring, star, mesh.
 * Different backgrounds (dependent on NFT type)
 * Different nodes (dependent on NFT type)
 
