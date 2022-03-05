@@ -35,7 +35,7 @@ The Fluence logo can additionally be decorated with gems.
 
 Community is repsented by natural world networks. In this set, mycological (mushroom) networks. Can contain:
 
-* Liberty Cap - In gold, silver of Flucibin
+* Liberty Cap - In gold, silver or Flucibin
 * Flu Agaric - With gold, silver or Flucibin stem
 * Inkcap
 
