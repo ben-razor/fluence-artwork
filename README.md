@@ -6,7 +6,7 @@ Submitted for the [Gitcoin / Codeless](https://gitcoin.co/hackathon/codeless) Ha
 
 ## Fluence NFTs
 
-The Fluence NFTs are designed to represent different users by elements linked together in different network topologies.
+The Fluence NFTs are designed to represent different user groups by elements linked together in different network topologies.
 
 ### Investors - Networks of Gems, Crystals and Coins
 ![Investor Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-investor/gallery.png)
@@ -55,3 +55,9 @@ Community is repsented by natural world networks. In this set, mycological (mush
 * Fliberty Cap - In gold, silver or Flucibin
 * Flu Agaric - Different coloured caps
 * Flurons - Multiple Colours
+
+## Fluence Memes
+
+Two memes were created based on the NFT artwork:
+
+https://github.com/ben-razor/fluence-artwork/blob/main/render/memes/gallery.png
