@@ -19,13 +19,17 @@ The Fluence NFTs are designed to represent different users by elements linked to
 ### Community - Networks of nature (neurons and mycology)
 ![Community Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-community/gallery.png)
 
+## Rarity
+
 Rarity is supported through:
 
 * Different network configurations: Ring, star, mesh.
 * Different backgrounds (dependent on NFT type)
 * Different nodes (dependent on NFT type)
 
-There are three types of NFT:
+The rarity can be configured on request by selecting specific combinations or running a randomized generator.
+
+There are three types of NFT that support different elements with configurable materials and colours:
 
 ### Investors
 
@@ -33,21 +37,25 @@ Investor NFTS are networks of interconnected jewels forming abstract artifacts t
 
 * Fluence Logo - In gold, silver, or Flumium
 * Jewels - Diamonds, Pearls and Flubies
+* Crystals - Diamond, Onyx
+* Coins - Gold, Silver, Flumium
 
-The Fluence logo can additionally be decorated with gems.
+The Fluence logo can additionally be decorated with gems in different configurations.
+
+### Developers
+
+Developers are represented by networks are game like elements. Can be configured with:
+
+* 8-bit Fluence logo
+* Aquafish character - Multiple colours
+* Airhead charcter - Multiple colours
+* Flugelhog character - Multiple colours
+* Corals containing flourescent voxel pearls
 
 ### Community
 
 Community is repsented by natural world networks. In this set, mycological (mushroom) networks. Can contain:
 
-* Liberty Cap - In gold, silver or Flucibin
-* Flu Agaric - With gold, silver or Flucibin stem
-* Inkcap
-
-### Developers
-
-Developers are represented by networks are game like elements. Can contain:
-
-* 8-bit Fluence logo - In various colours
-* Aqua Fish - In three colours
-* Flugelhog - In multiple colours
+* Fliberty Cap - In gold, silver or Flucibin
+* Flu Agaric - Different coloured caps
+* Flurons - Multiple Colours
