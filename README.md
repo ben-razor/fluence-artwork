@@ -8,6 +8,8 @@ Submitted for the [Gitcoin / Codeless](https://gitcoin.co/hackathon/codeless) Ha
 
 The Fluence NFTs are designed to represent different user groups by elements linked together in different network topologies.
 
+Here are some example configurations representing the way that Fluence can link financial, digital and natural networks.
+
 ### Investors - Networks of Gems, Crystals and Coins
 ![Investor Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-investor/gallery.png)
 ### Developers - Networks of Fluence themed digital characters and corals
