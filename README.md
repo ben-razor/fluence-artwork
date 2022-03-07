@@ -2,7 +2,7 @@
 
 A collection of artwork for [Fluence Network](https://fluence.network/)
 
-Submitted for the [Gitcoin / Codeless Hackathon](https://gitcoin.co/hackathon/codeless) [Fluence Award And Attention NFTs Task Description](https://gitcoin.co/issue/fluencelabs/gitcoin-codeless-conduct-2022/1/100027778) task and [Fluence Memes Task](https://gitcoin.co/issue/fluencelabs/gitcoin-codeless-conduct-2022/2/100027779).
+Submitted for the [Gitcoin / Codeless](https://gitcoin.co/hackathon/codeless) Hackathon [Fluence Award And Attention NFTs](https://gitcoin.co/issue/fluencelabs/gitcoin-codeless-conduct-2022/1/100027778) task and [Fluence Memes](https://gitcoin.co/issue/fluencelabs/gitcoin-codeless-conduct-2022/2/100027779) task.
 
 ## Fluence NFTs
 
