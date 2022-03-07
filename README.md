@@ -60,4 +60,4 @@ Community is repsented by natural world networks. In this set, mycological (mush
 
 Two memes were created based on the NFT artwork:
 
-https://github.com/ben-razor/fluence-artwork/blob/main/render/memes/gallery.png
+![Fluence Memes](https://github.com/ben-razor/fluence-artwork/blob/main/render/memes/gallery.png)
