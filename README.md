@@ -33,8 +33,9 @@ Investor NFTS are networks of interconnected jewels forming abstract artifacts t
 
 * Fluence Logo - In gold, silver, or Flumium
 * Jewels - Diamonds, Pearls and Flubies
-* Crystals - Diamond, Onyx
+* Crystals - Diamond, Onyx, Flubie
 * Coins - Gold, Silver, Flumium
+* Network - Gold, Silver
 
 The Fluence logo can be decorated with gems in different configurations.
 
@@ -47,6 +48,7 @@ Developers are represented by networks are game like elements. Can be configured
 * Airhead charcter - Multiple colours
 * Flugelhog character - Multiple colours
 * Corals containing flourescent voxel pearls
+* Network - Flourescent Pink/Green/Blue or Fiber Optic
 
 ### Community
 
@@ -55,6 +57,7 @@ Community is repsented by natural world networks. In this set, mycological (mush
 * Fliberty Cap - In gold, silver or Flucibin
 * Flu Agaric - Different coloured caps
 * Flurons - Multiple Colours
+* Network - Silver, Gold or Fiber Optic
 
 ## Fluence Memes
 
