@@ -36,7 +36,7 @@ Investor NFTS are networks of interconnected jewels forming abstract artifacts t
 * Crystals - Diamond, Onyx
 * Coins - Gold, Silver, Flumium
 
-The Fluence logo can additionally be decorated with gems in different configurations.
+The Fluence logo can be decorated with gems in different configurations.
 
 ### Developers
 
