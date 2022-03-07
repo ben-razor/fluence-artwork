@@ -10,9 +10,14 @@ Submitted for the [Gitcoin / Codeless Hackathon](https://gitcoin.co/hackathon/co
 
 ## Fluence NFTs
 
-Create themed NFTs to reward different Fluence community members and groups, e.g., developers, investors, etc. A theme should reflect the Web3, p2p and Fluence ethos and support a rarity model.
+The Fluence NFTs are designed to represent different users by elements linked together in different network topologies.
 
-The [Fluence NFTs]() are designed to represent different groups by elements linked together in different network topologies.
+### Investors - Networks of Gems, Crystals and Coins
+![Investor Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-investor/gallery.png)
+### Developers - Networks of Fluence themed digital characters and corals
+![Developer Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-dev/gallery.png)
+### Community - Networks of nature (neurons and mycology)
+![Community Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-community/gallery.png)
 
 Rarity is supported through:
 
