@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+montage meme*.png -geometry 512x512+10+10 -tile 2x1 gallery.png
+
