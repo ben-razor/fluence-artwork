@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+for folder in demo-community demo-dev demo-investor
+do
+    cd $folder
+    montage fluence*.png -geometry 240x240+10+10 -tile 4x1 gallery.png
+    cd ..
+done
