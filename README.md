@@ -23,7 +23,7 @@ Rarity is supported through:
 * Different backgrounds (dependent on NFT type)
 * Different nodes (dependent on NFT type)
 
-The rarity can be configured on request by selecting specific combinations or running a randomized generator.
+**The rarity can be configured on request by selecting specific configurations or by using random generation.**
 
 There are three types of NFT that support different elements with configurable materials and colours:
 
