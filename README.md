@@ -43,7 +43,7 @@ The Fluence logo can be decorated with gems in different configurations.
 
 ### Developers
 
-Developers are represented by networks are game like elements. Can be configured with:
+Developers are represented by networks of 8bit/16bit game like elements. Can be configured with:
 
 * 8-bit Fluence logo
 * Aquafish character - Multiple colours
