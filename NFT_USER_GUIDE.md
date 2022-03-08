@@ -6,7 +6,17 @@ The blend files are located in the [Blend Files Folder](https://github.com/ben-r
 
 ## Configuration
 
-To configure the different styles and items in the scene. NFT metadata can be loaded into the blend files.
+To configure the different styles and items in the scene. NFT metadata can be loaded into the blend files.  
+
+Each scene has 1 logo element. It is in the center for mesh and star networks, and at the front on a ring network.  
+
+Different items can be selected for front, sides and back of the network.   
+
+The item selected for the front will be ignored for a ring network, as the logo replaces it.  
+
+Each element either has **material** or **color** that can be altered. Material names start with capitals.  
+
+Whether an element takes a **material** or **color** is shown in the schema at the bottom of this document.
 
 The metadata is slightly different depending on the type of scene (investor, developer, community). Here are
 example metadata files:
