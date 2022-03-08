@@ -103,7 +103,7 @@ example metadata files:
 
 ## Schema
 
-This schema contains the styles options and styles available for each type of scene.
+This schema contains the item options and styles available for each type of scene.
 
 ```json
 {
