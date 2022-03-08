@@ -27,7 +27,7 @@ Rarity is supported through:
 
 **The rarity can be configured on request by selecting specific configurations or by using random generation.**
 
-The images are generated from NFT metadata passed to Blender 2.8 scripts. All the options and schemes are shown in the [NFT_User_Guide](https://github.com/ben-razor/fluence-artwork/blob/main/NFT_USER_GUIDE.md)
+The images are generated from NFT metadata passed to Blender 2.8 scripts. All the options and schemes are shown in the [NFT_User_Guide](https://github.com/ben-razor/fluence-artwork/blob/main/NFT_USER_GUIDE.md).
 
 There are three types of NFT that support different elements with configurable materials and colours:
 
