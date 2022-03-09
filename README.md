@@ -17,6 +17,8 @@ Here are some example configurations representing the way that Fluence can link 
 ### Community - Networks of nature (neurons and mycology)
 ![Community Network](https://github.com/ben-razor/fluence-artwork/blob/main/render/nfts/demo-community/gallery.png)
 
+**More full size examples in the [NFTs Directory](https://github.com/ben-razor/fluence-artwork/tree/main/render/nfts)**
+
 ## Rarity
 
 Rarity is supported through:
