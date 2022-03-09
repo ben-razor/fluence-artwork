@@ -103,7 +103,9 @@ example metadata files:
 
 ## Schema
 
-This schema contains the item options and styles available for each type of scene.
+This schema contains the item options and styles available for each type of scene.  
+
+The **items** entry for each of the three groups (**investor**, **dev**, **community**) contains the items that can be placed on the **front**, **side** or **back** of the network.
 
 ```json
 {
